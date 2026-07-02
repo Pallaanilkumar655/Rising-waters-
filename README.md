@@ -56,12 +56,14 @@ Rising-Waters-Flood-Prediction/
 │   └── flood_dataset.xlsx
 ├── models/
 │   └── flood_model.pkl
+├── notebooks/
 ├── static/
 │   └── style.css
 ├── templates/
 │   └── index.html
 ├── app.py
 ├── train_model.py
+├── predict.py
 ├── requirements.txt
 └── README.md
 ```
@@ -95,7 +97,7 @@ Target:
 1. Clone the repository
 
 ```bash
-git clone https://github.com/your-username/Rising-Waters-Flood-Prediction.git
+git clone https://github.com/Pallaanilkumar655/Rising-Waters-Flood-Prediction.git
 ```
 
 2. Open the project folder
